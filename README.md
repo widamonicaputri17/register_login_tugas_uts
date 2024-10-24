@@ -1,16 +1,11 @@
-# tugas_uts
+# WIDA MONICA PUTRI_2A (362358302008)
 
-A new Flutter project.
+# HASIL HALAMAN LOGIN :
+![Screenshot 2024-10-24 212846](https://github.com/user-attachments/assets/6976fbb2-0c59-4bf1-a63d-9655161799bc)
 
-## Getting Started
+# JIKA KLIK BELUM PUNYA AKUN MAKA AKAN TAMPIL HALAMAN REGISTER :
+![Screenshot 2024-10-24 212904](https://github.com/user-attachments/assets/0121dbb1-7495-4d5c-bf79-2facd510bfbe)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# JIKA SUDAH KLIK DAFTAR AKAN KEMBALI KE HALAMAN LOGIN
+# Dan jika klik login maka akan diarahkan pada halaman profil :
+![Screenshot 2024-10-24 212927](https://github.com/user-attachments/assets/a13a1bce-c947-49e8-8ccb-9a84e07f1942)
